@@ -1,22 +1,36 @@
-# House Price Prediction 🏠
+# 🏠 House Price Prediction
 
-## 📌 Problem Statement
-Predict house prices using machine learning based on property features.
+## 📌 Overview
+This project predicts house prices based on various features using machine learning techniques.
 
-## 🛠️ What I Did
-- Data Cleaning & Handling Missing Values
+## 🧠 Problem Statement
+Given features like area, number of rooms, and location, predict the price of a house.
+
+## 🔍 Workflow
+- Data Cleaning (handled missing values)
 - Exploratory Data Analysis (EDA)
-- Feature Engineering (TotalSF, TotalBath, HouseAge)
-- Model Building using Regression
+- Feature Selection
+- Model Training (Linear Regression)
+- Model Evaluation
 
-## 📊 Features Engineered
-- Total Square Footage
-- Total Bathrooms
-- House Age
-- Porch Area Combination
+## 📊 Features Used
+- Area
+- Bedrooms
+- Bathrooms
 
-## 🤖 Models Used
-- Linear Regression
+## 🛠️ Tech Stack
+- Python
+- Pandas, NumPy
+- Matplotlib
+- Scikit-learn
 
-## 📂 Dataset
-Kaggle House Prices Dataset
+## 📈 Model Performance
+- Model: Linear Regression  
+- R² Score: 76%
+
+## 📂 Files
+- house_price_prediction.ipynb
+- dataset.csv
+
+## 👤 Author
+Dhruv Aanand
