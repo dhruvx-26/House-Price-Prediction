@@ -17,7 +17,6 @@ Predict house prices using machine learning based on property features.
 
 ## 🤖 Models Used
 - Linear Regression
-- (Add more if you used)
 
 ## 📂 Dataset
 Kaggle House Prices Dataset
